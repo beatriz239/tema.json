@@ -1,0 +1,61 @@
+{
+    "apertar1": {
+        "items": [
+            {"Imagem":"<img src='img/apertart1.jpg'>"},
+            { "title": "Oppenheimer" },
+            { "Diretor": "Christopher Nolan" },
+            { "Gênero": "Biografia, Drama, História" },
+            { "Sinopse": "A história de J. Robert Oppenheimer, o físico que liderou o projeto Manhattan e ajudou a desenvolver a bomba atômica" }
+        ]
+    },
+    "apertar2": {
+        "items": [
+            { "title": "1984 - George Orwell" },
+            { "title": "Dom Casmurro - Machado de Assis" },
+            { "title": "O Pequeno Príncipe - Antoine de Saint-Exupéry" },
+            { "title": "Moby Dick - Herman Melville" },
+            { "title": "A Revolução dos Bichos - George Orwell" },
+            { "title": "Harry Potter e a Pedra Filosofal - J.K. Rowling" }
+        ]
+    },
+    "apertar3": {
+        "items": [
+            { "title": "Bohemian Rhapsody - Queen" },
+            { "title": "Imagine - John Lennon" },
+            { "title": "Stairway to Heaven - Led Zeppelin" },
+            { "title": "Hotel California - Eagles" },
+            { "title": "Smells Like Teen Spirit - Nirvana" },
+            { "title": "Billie Jean - Michael Jackson" }
+        ]
+    },
+    "apertar4": {
+        "items": [
+            { "title": "Inteligência Artificial" },
+            { "title": "Blockchain" },
+            { "title": "Computação em Nuvem" },
+            { "title": "Internet das Coisas" },
+            { "title": "Realidade Aumentada" },
+            { "title": "5G e suas aplicações" }
+        ]
+    },
+    "apertar5": {
+        "items": [
+            { "title": "Importância da Hidratação" },
+            { "title": "Alimentação Balanceada" },
+            { "title": "Exercícios Físicos Regulares" },
+            { "title": "Saúde Mental" },
+            { "title": "Sono de Qualidade" },
+            { "title": "Vacinas e sua importância" }
+        ]
+    },
+    "apertar6": {
+        "items": [
+            { "title": "Destinos Exóticos" },
+            { "title": "Dicas para Viajar Sozinho" },
+            { "title": "Melhores Cidades para Visitar" },
+            { "title": "Gastronomia pelo Mundo" },
+            { "title": "Roteiros de Aventura" },
+            { "title": "Cultura e Tradições" }
+        ]
+    }
+}
